@@ -1,0 +1,6 @@
+# plugins are usually separate git repos:
+plugins/
+
+tmux-sensible/
+tmux/
+tpm/
