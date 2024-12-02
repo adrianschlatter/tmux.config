@@ -4,7 +4,10 @@
 
 ```
 git clone git@github.com:adrianschlatter/tmux.config.git ~/.config/tmux
-git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+cd ~/.config/tmux
+make
+tmux
+make install
 ```
 
 Download and install MesloGS NF font from
