@@ -1,3 +1,5 @@
+### Archived in favor of [dotfiles](https://github.com/adrianschlatter/dotfiles) ###
+
 # tmux.config
 
 ## Installation instructions
